@@ -1,0 +1,50 @@
+Name: The History of Tom Jones, a Foundling
+Author: Henry Fielding
+ISBN: 34396094222
+Borrowed: False
+--------------------
+Name: Pride and Prejudice
+Author: Jane Austen
+ISBN: 47818966171
+Borrowed: False
+--------------------
+Name: The red and the Black
+Author: Stendhal
+ISBN: 55805252560
+Borrowed: False
+--------------------
+Name: Le Pere Goriot
+Author: Honore de Balzac
+ISBN: 67867159735
+Borrowed: False
+--------------------
+Name: David Copperfield
+Author: Charles Dickens
+ISBN: 49177568400
+Borrowed: False
+--------------------
+Name: Madame Bovary
+Author: Gustave Flaubert
+ISBN: 96214474050
+Borrowed: False
+--------------------
+Name: Moby-Dick
+Author: Herman Melville
+ISBN: 89158562225
+Borrowed: False
+--------------------
+Name: Wuthering Heights
+Author: Emily Bronte
+ISBN: 47311089864
+Borrowed: False
+--------------------
+Name: The Brothers Karamazov
+Author: Dostoevsky
+ISBN: 90598845881
+Borrowed: False
+--------------------
+Name: War and Peace
+Author: Tolstoy
+ISBN: 75411561832
+Borrowed: False
+--------------------
